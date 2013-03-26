@@ -3,4 +3,5 @@
 *.xls
 # notes
 *.txt
-
+# backup
+*.bak
